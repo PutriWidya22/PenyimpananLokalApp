@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Tip Time</string>
+    <string name="submit">Submit</string>
+    <string name="todo">TODO</string>
+    <string name="nama_putri_widya_nim_203110035_prodi_rpla_motivation_tetap_semangat_belajar">Nama : Putri Widya NIM : 203110035 Prodi : RPLA Motivation \'Tetap Semangat Belajar\'</string>
+    <string name="hello">Hello</string>
+    <string name="oke" />
+    <string name="ooke">OKE</string>
+    <string name="nama_putri_widya">Nama : Putri Widya</string>
+    <string name="nim_203110035">NIM : 203110035</string>
+    <string name="prodi_rpla">Prodi : RPLA</string>
+    <string name="masukkan_biaya_jasa">Masukkan biaya jasa</string>
+    <string name="bagaimana_pelayanan_yang_diterima">Bagaimana pelayanan yang diterima?</string>
+    <string name="amazing_20">Amazing (20%)</string>
+    <string name="good_15">Good (15%)</string>
+    <string name="ok_10">OK (10%)</string>
+    <string name="pajak_dihitung">Pajak dihitung</string>
+    <string name="hitung_total_tip">HITUNG TOTAL TIP</string>
+    <string name="total_tip_yang_diberikan">Total Tip yang diberikan :</string>
+</resources>
